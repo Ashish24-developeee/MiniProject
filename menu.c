@@ -9,6 +9,8 @@ int main()
     scanf("%c",&op);
     switch(op)
     {
+        //hii
+        //how
         case'1':
         printf("You have choosed starter\n");
         printf("1. Chicken 65\n2. Dragon Chicken\n3. Paneer Pakoda\n");
